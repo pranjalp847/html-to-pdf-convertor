@@ -1,0 +1,24 @@
+#qp{
+    text-align: center;
+}
+
+.answer{
+    margin: 20px;
+    text-align: center;
+
+}
+
+#button{
+    padding-left: 45% ;
+    margin-bottom: 4px;
+    /* background-color: gold; */
+
+}
+
+.main{
+    border: 2px solid gold;
+}
+
+#btn{
+   background-color: gold; 
+}
